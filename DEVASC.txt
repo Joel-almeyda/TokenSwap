@@ -1,0 +1,4 @@
+Estoy en camino de aprbar el examen DevNet DEVASC
+Estoy en camino de aprbar el examen NetAcad DEVASC
+Estoy empezando a entender Git
+Este texto se agregó originalmente mientras estaba en la rama de funciones
